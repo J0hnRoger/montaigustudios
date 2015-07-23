@@ -128,8 +128,6 @@ endif; ?>
 
 				?>
 
-
-
 			</div>
 
 			<nav class="navbar-collapse bs-navbar-collapse collapse" role="navigation"   id="site-navigation">

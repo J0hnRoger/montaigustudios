@@ -46,10 +46,10 @@ endif;
         <script>
             MStudioMaps.init('home_building_map', 46.9751523,-1.3110344);
             MStudioMaps.addMarker(46.9797758,-1.3121039, "ISLT");
-            MStudioMaps.addMarker(46.9797758,-1.3121039, "Lycée Jeanne d'arc");
-            MStudioMaps.addMarker(46.9712835,-1.3000014, "Lycée Léonard de Vinci");
-            MStudioMaps.addMarker(46.9801252,-1.3087837, "sup SANTÉ ANIMALE groupETABLIERES");
-            MStudioMaps.addMarker(46.9791938,-1.3153203, "SNCF Gare Sécurité");
+            MStudioMaps.addMarker(46.9797758,-1.3121039, "LycÃ©e Jeanne d'arc");
+            MStudioMaps.addMarker(46.9712835,-1.3000014, "LycÃ©e LÃ©onard de Vinci");
+            MStudioMaps.addMarker(46.9801252,-1.3087837, "sup SANTÃ‰ ANIMALE groupETABLIERES");
+            MStudioMaps.addMarker(46.9791938,-1.3153203, "SNCF Gare SÃ©curitÃ©");
 
         <?php
             while ( $immeubles->have_posts() ) {

@@ -20,9 +20,7 @@
 
 			<?php
 
-
 				$zerif_aboutus_subtitle = get_theme_mod('zerif_aboutus_subtitle',__('Use this section to showcase important details about your business.','zerif-lite'));
-
 
 				if( !empty($zerif_aboutus_subtitle) ):
 

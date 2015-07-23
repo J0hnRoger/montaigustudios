@@ -1737,6 +1737,16 @@ ul.nav > li.current_page_item.current > a:before {
  **   Section: HOME MAP         -----
 -----------------------------------------*/
 #home_building_map .free-building-badge {float: right;}
+
+/*---------------------------------------
+ **   Section: SINGLE IMMEUBLE        -----
+-----------------------------------------*/
+.building-cover {background-size:cover;background-position: center center;padding: 125px}
+.appartments-search {text-align: left;}
+.appartments-search button{margin-right: 0;}
+.appartments-search .appartment-cover {height: 160px; background-size: 100%;padding:5px;}
+.appartments-search .appartment-thumb {padding:10px;background-color: #f1f1f1;margin:5px;}
+.appartments-search .appartment-thumb .label{ float:right;}
 /*---------------------------------------
  **   Section: Our focus             -----
 -----------------------------------------*/
